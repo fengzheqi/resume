@@ -21,6 +21,21 @@
 - 2009.09 - 2013.06：哈尔滨工程大学（211高校） 电子信息工程 工学学士
 - 2014.09 - 2017.06：华中科技大学（985高校） 信息与通信工程 研二在读
 
+### 获得成绩
+- 2012.08 全国电子设计大赛黑龙江赛区二等奖<br/>
+- 2011.08 全国机器人大赛大学组竞步机器人狭窄足、交叉足分别获二等奖
+- 2009-2013 6次获得校级二等奖学金和1次科研立项奖等
+
+### 技能清单
+以下均是我平常用到比较书籍的技能：
+- Web前端基础：HTML/CSS/JavaScript
+- Web开发框架与插件：Bootstrap/AngularJS/jQuery/SSH
+- Web前端工具：grunt/gulp/Sass/bower
+- Web后端语言：Java/Node
+- 数据库相关：MySQL/Oracle/SQLyog/SQL Developer
+- 版本控制工具：SVN/Git
+- 开发IDE：sublime/WebStorm/MyEclipse
+
 ### 项目实战
 - **前端性能监控分析系统**<br/>
   **项目描述**：对用户各应用系统前端页面进行监控，采集性能数据，进行分析及供图表展示，并提供优化建议。 <br/>
@@ -41,21 +56,6 @@
   **项目描述**：<br/>
   **本人职责**：开发人员。<br/>
   **项目情况**：<br/>
-
-### 获得成绩
-- 2012.08 全国电子设计大赛黑龙江赛区二等奖<br/>
-- 2011.08 全国机器人大赛大学组竞步机器人狭窄足、交叉足分别获二等奖
-- 2009-2013 6次获得校级二等奖学金和1次科研立项奖等
-
-### 技能清单
-以下均是我平常用到比较书籍的技能：
-- Web前端基础：HTML/CSS/JavaScript
-- Web开发框架与插件：Bootstrap/AngularJS/jQuery/SSH
-- Web前端工具：grunt/gulp/Sass/bower
-- Web后端语言：Java/Node
-- 数据库相关：MySQL/Oracle/SQLyog/SQL Developer
-- 版本控制工具：SVN/Git
-- 开发IDE：sublime/WebStorm/MyEclipse
 
 ### 自我评价
 - 性格随和，乐于与人沟通。
