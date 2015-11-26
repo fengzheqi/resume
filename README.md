@@ -18,8 +18,8 @@
 - 期望职位：Web前端工程师
 
 ### 教育经历
-- 2009.09 - 2013.06：哈尔滨工程大学（211高校） 电子信息工程 工学学士
-- 2014.09 - 2017.06：华中科技大学（985高校） 信息与通信工程 研二在读
+- 2009.09 - 2013.06 哈尔滨工程大学（211高校） 电子信息工程 工学学士
+- 2014.09 - 2017.06 华中科技大学（985高校） 信息与通信工程 研二在读
 
 ### 获得成绩
 - 2012.08 全国电子设计大赛黑龙江赛区二等奖<br/>
@@ -27,7 +27,7 @@
 - 2009-2013 6次获得校级二等奖学金和1次科研立项奖等
 
 ### 技能清单
-以下均是我平常用到比较书籍的技能：
+以下均是我平常用到比较熟悉的技能：
 - Web前端基础：HTML/CSS/JavaScript
 - Web开发框架与插件：Bootstrap/AngularJS/jQuery/SSH
 - Web前端工具：grunt/gulp/Sass/bower
@@ -64,3 +64,74 @@
 
 ### 致谢
 感谢您花时间阅读我的简历，期待能有机会与您共事。
+
+
+
+## RESUME
+
+### Contact
+- **MobilePhone**: (+86)15527649730
+- **Email**: fengzheqiyx@163.com
+- **QQ/weixin**: 811756202
+- **weibo**: @[@大爱哲奇](http://weibo.com/2638527144)
+
+### Profile
+- **Name**: zheqi feng
+- **Gender**: male
+- **Homeplace**: Xiantao Hubei
+- **Date of birth**: March 12, 1990
+- **University**: Huazhong University of Science & Technology
+- **Major**: Electronics and Information Engineering
+- **Degree**: Master
+- **Website**: [fengzheqi.com](www.fengzheqi.com)
+- **Github**：https://github.com/Tommy-feng
+- **Expected Position**: Web Font-End Developer
+
+### Education
+- 2009.09 - 2013.06 [Harbin Engineering University](http://english.hrbeu.edu.cn/) Bachelor of Engineering
+- 2014.09 - 2017.06 [Huazhong University of Science & Technology](http://english.hust.edu.cn/) Master of Engineering
+
+### Awards
+- 2012.08 Nation Undergraduate Electronic Design Contact / The Second Prize
+- 2011.08 RoboCup China Open / The Second Prize
+- 2009-2013 Six Times Of Second university scholarship
+
+### Programming Skills
+The following are the familiar skills I used:
+- **Front-end Develop Language**：HTML/CSS/JavaScript
+- **Web Front-end Frame**：Bootstrap/AngularJS/jQuery/SSH
+- **Web Front-end Tools**：grunt/gulp/Sass/bower
+- **Back-end Develop Language**：Java/Node
+- **Database Reference**：MySQL/Oracle/SQLyog/SQL Developer
+- **Version Control Tools**：SVN/Git
+- **IDE**：sublime/WebStorm/MyEclipse
+
+### Projects Experience
+- **FPMS**<br/>
+  **Project Introduction**：<br/>
+  **The Role Of Mine**：Web Font-End Developer.<br/>
+  **Project Information**：<br/>
+
+- **HSAS**<br/>
+  **Project Introduction**：<br/>
+  **The Role Of Mine**：Project Leader<br/>
+  **Project Information**：<br/>
+
+- **SMDB (Chinese University Social Sciences Management Database)**<br/>
+  **Project Introduction**：<br/>
+  **The Role Of Mine**：Web Font-End Developer.<br/>
+  **Project Information**：<br/>
+
+- **SMAS**<br/>
+  **Project Introduction**：<br/>
+  **The Role Of Mine**：Web Font-End Developer.<br/>
+  **Project Information**：<br/>
+
+### Self-evaluation
+- Easygoing, willing to communicate with others.
+- Good at learning, positive, there is a strong sense of responsibility.
+- Willing to share, good teamwork, team-oriented exchanges.
+
+
+### Acknowledgements
+Thank you for taking the time to read my resume, and I am looking forward to the opportunity to work with you.
