@@ -32,15 +32,15 @@
 - Web开发框架与插件：Bootstrap/AngularJS/jQuery/SSH
 - Web前端工具：grunt/gulp/Sass/bower
 - Web后端语言：Java/Node
-- 数据库相关：MySQL/Oracle/SQLyog/SQL Developer
+- 数据库相关：MySQL/Oracle
 - 版本控制工具：SVN/Git
 - 开发IDE：sublime/WebStorm/MyEclipse
 
 ### 项目实战
 - **前端性能监控分析系统**<br/>
-  **项目描述**：对用户各应用系统前端页面进行监控，采集性能数据，进行分析及供图表展示，并提供优化建议。 <br/>
+  **项目描述**：系统对用户各应用系统前端页面进行监控，采集性能数据，进行分析及供图表展示，并提供优化建议。 <br/>
   **本人职责**：开发人员。<br/>
-  **项目情况**： 该性能监控系统定于在2015年6月中下旬部署使用， 对实验室开发的所有项目的前端页面进行监控和性能分析。 <br/>
+  **项目情况**：该性能监控系统定于在2015年6月中下旬部署使用， 对实验室开发的所有项目的前端页面进行监控和性能分析。 <br/>
 
 - **湖北省社会科学优秀成果奖申报评审系统**<br/>
   **项目描述**：系统面向全社会社科优秀成果申报评奖，主要包括成果管理和成果评审。整个系统涉及多类用户的不同业务处理，提供申报、评审和审核一整套流程解决方案。<br/>
@@ -48,14 +48,9 @@
   **项目情况**：网站目前处于开发中，预计2016年3月份正式上线，届时将向湖北省全社会进行社科成果申报评审。<br/>
 
 - **中国高校社会科学管理数据库**<br/>
-  **项目描述**：<br/>
+  **项目描述**：系统主要包括基础支撑数据库、业务处理平台和决策支撑三层系统构架，对各类科研数据及事务（项目、成果、奖励、人员、机构、经费等）实现一体化管理。<br/>
   **本人职责**：开发人员。<br/>
-  **项目情况**：<br/>
-
-- **社科管理咨询服务系统**<br/>
-  **项目描述**：<br/>
-  **本人职责**：开发人员。<br/>
-  **项目情况**：<br/>
+  **项目情况**：系统目前正常运行，实现了中国高校社科管理业务的信息化，初步建立中国高校哲学社会科学一体化的现代化管理体系，实现内容管理与数据统计分析。<br/>
 
 ### 自我评价
 - 性格随和，乐于与人沟通。
@@ -65,7 +60,7 @@
 ### 致谢
 感谢您花时间阅读我的简历，期待能有机会与您共事。
 
-
+=============================================================
 
 ## RESUME
 
@@ -107,25 +102,20 @@ The following are the familiar skills I used:
 - **IDE**：sublime/WebStorm/MyEclipse
 
 ### Projects Experience
-- **FPMS**<br/>
-  **Project Introduction**：<br/>
+- **FPMS(Front-end Performance Monitoring System)**<br/>
+  **Project Introduction**：The system monitors web pages of the application, collects performation data for analysis with chart display, and provide optimization suggestions.<br/>
   **The Role Of Mine**：Web Font-End Developer.<br/>
-  **Project Information**：<br/>
+  **Project Information**：The monitoring system is scheduled for deployment in 2016. The projects in the laboratory will be monitored and Performance analysis.<br/>
 
-- **HSAS**<br/>
-  **Project Introduction**：<br/>
+- **HSAS(hubei Federation of Social Science Associations - Award System)**<br/>
+  **Project Introduction**：The system, facing to the whole of society, collects outstanding achivements in social science, including products management and review. <br/>
   **The Role Of Mine**：Project Leader<br/>
-  **Project Information**：<br/>
+  **Project Information**：The system is currently under development, is expected to be formally released in March 2016.<br/>
 
-- **SMDB (Chinese University Social Sciences Management Database)**<br/>
-  **Project Introduction**：<br/>
+- **SMDB(Chinese University Social Sciences Management Database)**<br/>
+  **Project Introduction**：The system includes basic support databases, business processing platform and decision-support framework. Various types of scientific data and transaction (projects, achievements, awards, personnel, organization, funding, etc.) have achieved integrated management.<br/>
   **The Role Of Mine**：Web Font-End Developer.<br/>
-  **Project Information**：<br/>
-
-- **SMAS**<br/>
-  **Project Introduction**：<br/>
-  **The Role Of Mine**：Web Font-End Developer.<br/>
-  **Project Information**：<br/>
+  **Project Information**：The system is currently running, achieving the management of social sciences of China's information of colleges and universities, establishing the modern management system of projects of Chinese Philosophy and Social Sciences of University .<br/>
 
 ### Self-evaluation
 - Easygoing, willing to communicate with others.
