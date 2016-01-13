@@ -27,8 +27,7 @@
 - 2009-2013 6次获得校级二等奖学金和1次科研立项奖等
 
 ### 技能清单
-以下均是我平常用到比较熟悉的技能：
-- Web前端基础：HTML/CSS/JavaScript
+- Web前端基础：熟悉HTML/HTML5/CSS/CSS3/JavaScript
 - Web开发框架与插件：Bootstrap/AngularJS/jQuery/SSH
 - Web前端工具：grunt/gulp/Sass/bower
 - Web后端语言：Java/Node
